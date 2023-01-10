@@ -1,0 +1,42 @@
+{
+  "mod_elements": [
+    {
+      "name": "Immersiveportalscraftingportal",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "immersiveportalscraftingportal"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "immersiveportalscrafting",
+    "modName": "Immersive-portals-crafting",
+    "version": "1.0.0",
+    "author": "DarkWolfie",
+    "websiteURL": "https://darksmp.com",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [
+      "immersive_portals"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.19.2",
+    "credits": "DAMN",
+    "modElementsPackage": "com.darksmp.immersiveportalscrafting",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

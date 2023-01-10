@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "immersiveportalscrafting",
+  "version": "1.0.0",
+  "name": "Immersive-portals-crafting",
+  "authors": [
+    "DarkWolfie"
+  ],
+  "contact": {
+    "homepage": "https://darksmp.com",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.darksmp.immersiveportalscrafting.ImmersiveportalscraftingMod"
+    ],
+    "client": [
+      "com.darksmp.immersiveportalscrafting.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}
